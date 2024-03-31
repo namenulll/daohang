@@ -8,6 +8,21 @@
 		"desc": "域名托管网站",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
+		"name": "爱奇艺",
+		"href": "https://www.iqiyi.com/",
+		"desc": "中国领先的在线视频媒体平台",
+		"logo": "static/icons/iqiyi.com.ico"
+	}, {
+		"name": "Google",
+		"href": "https://www.google.com/",
+		"desc": "全球最大的搜索引擎和互联网技术公司",
+		"logo": "static/icons/google.com.ico"
+	}, {
+		"name": "YouTube",
+		"href": "https://www.youtube.com/",
+		"desc": "全球最大的视频分享平台",
+		"logo": "static/icons/youtube.com.ico"
+	},{
 		"name": "Namesilo",
 		"href": "https://www.namesilo.com/",
 		"desc": "域名托管网站",

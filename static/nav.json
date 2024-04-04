@@ -2,8 +2,7 @@
     "_id": "guowai",
     "classify": "国外网站",
     "icon": "ti-world",
-    "sites": [
-      {
+    "sites": [{
         "name": "GitHub",
         "href": "https://github.com/",
         "desc": "全球最大的开源社区和软件开发平台",
@@ -26,15 +25,12 @@
         "href": "https://medium.com/",
         "desc": "优质写作内容聚合平台",
         "logo": "static/icons/medium.com.ico"
-      }
-    ]
-  },
-  {
+      }]
+  },{
     "_id": "AI",
     "classify": "人工智能",
     "icon": "ti-brain",
-    "sites": [
-      {
+    "sites": [{
         "name": "OpenAI",
         "href": "https://openai.com/",
         "desc": "领先的人工智能研究组织",
@@ -57,8 +53,7 @@
         "href": "https://www.microsoft.com/en-us/ai",
         "desc": "微软的人工智能平台",
         "logo": "static/icons/microsoft.com.ico"
-      }
-    ]
+      }]
   },{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
